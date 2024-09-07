@@ -1,7 +1,8 @@
-# HELLO WORLD!
+# HELLO, WORLD!
 Sejam bem vindos ao meu Codificador.
 # Decodificador de Texto 
-**DESCRIÇÃO**
+**DESCRIÇÃO:**
+
 Este projeto foi desenvolvido como parte do desafio da Oracle ONE Next Education T7, em colaboração com a Alura, com o objetivo de criar um decodificador de texto. A aplicação possibilita a criptografia e descriptografia de textos, utilizando regras de substituição de caracteres pré-definidas.
 
 **FUNCIONALIDADES:**
